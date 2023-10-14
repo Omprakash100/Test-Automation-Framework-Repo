@@ -1,0 +1,143 @@
+2023-10-13 18:05:05,892 - INFO - Equitymaster Homepage initialized
+2023-10-13 18:05:05,895 - INFO - Navigating to Equitymaster: https://www.equitymaster.com/stockquotes/1-76/list-of-nifty-largemidcap-250-stocks
+2023-10-13 18:05:10,373 - INFO - Fetching stocks Value
+2023-10-13 18:05:30,766 - ERROR - Element not found within 10 seconds: ('xpath', "//table[@class='mystocks cls']/tbody/tr[34]/td[2]")
+2023-10-13 18:05:30,895 - WARNING - Popup detected, Closing the Popup
+2023-10-13 18:05:40,447 - INFO - Loading elements from index 85
+2023-10-13 18:06:00,433 - INFO - Loading elements from index 185
+2023-10-13 18:06:07,415 - WARNING - Profit percentage not exist for NIFTY 50
+2023-10-13 18:06:17,244 - WARNING - Profit percentage not exist for TATA STEEL 2% CCPS
+2023-10-13 18:06:21,520 - INFO - Loading elements from index 285
+2023-10-13 18:06:32,249 - ERROR - Element not found within 10 seconds: ('xpath', "//table[@class='mystocks cls']/tbody/tr[288]/td[1]")
+2023-10-13 18:06:42,581 - ERROR - Element not found within 10 seconds: ('xpath', "//button[@title='Close' and @tabindex]")
+2023-10-14 09:06:41,076 - INFO - Equitymaster Homepage initialized
+2023-10-14 09:06:41,084 - INFO - Navigating to Equitymaster: https://www.equitymaster.com/stockquotes/1-76/list-of-nifty-largemidcap-250-stocks
+2023-10-14 09:06:42,455 - INFO - Fetching stocks Value
+2023-10-14 09:06:54,210 - INFO - Equitymaster Homepage initialized
+2023-10-14 09:06:54,210 - INFO - Navigating to Equitymaster: https://www.equitymaster.com/stockquotes/1-76/list-of-nifty-largemidcap-250-stocks
+2023-10-14 09:06:57,219 - INFO - Fetching stocks Value
+2023-10-14 09:07:19,645 - INFO - Loading elements from index 85
+2023-10-14 09:07:45,460 - INFO - Loading elements from index 185
+2023-10-14 09:07:54,435 - WARNING - Profit percentage not exist for NIFTY 50
+2023-10-14 09:08:07,446 - WARNING - Profit percentage not exist for TATA STEEL 2% CCPS
+2023-10-14 09:08:14,257 - INFO - Loading elements from index 285
+2023-10-14 09:08:25,483 - ERROR - Element not found within 10 seconds: ('xpath', "//table[@class='mystocks cls']/tbody/tr[288]/td[1]")
+2023-10-14 09:08:35,580 - ERROR - Element not found within 10 seconds: ('xpath', "//button[@title='Close' and @tabindex]")
+2023-10-14 09:08:35,582 - INFO - [('ZF COMMERCIAL', 4.31), ('PHOENIX MILL', 3.86), ('HDFC AMC', 3.52), ('SJVN', 3.08), ('SHRIRAM TRANSPORT FINANCE CO. NCD 0STFC16', 2.99)]
+2023-10-14 09:26:46,906 - INFO - Equitymaster Homepage initialized
+2023-10-14 09:26:46,906 - INFO - Navigating to Equitymaster: https://www.equitymaster.com/stockquotes/1-76/list-of-nifty-largemidcap-250-stocks
+2023-10-14 09:26:50,089 - INFO - Fetching stocks Value
+2023-10-14 09:27:12,309 - INFO - Loading elements from index 85
+2023-10-14 09:27:43,726 - INFO - Loading elements from index 185
+2023-10-14 09:27:55,103 - WARNING - Profit percentage not exist for NIFTY 50
+2023-10-14 09:28:10,950 - WARNING - Profit percentage not exist for TATA STEEL 2% CCPS
+2023-10-14 09:28:17,778 - INFO - Loading elements from index 285
+2023-10-14 09:28:29,119 - ERROR - Element not found within 10 seconds: ('xpath', "//table[@class='mystocks cls']/tbody/tr[288]/td[1]")
+2023-10-14 09:28:39,269 - ERROR - Element not found within 10 seconds: ('xpath', "//button[@title='Close' and @tabindex]")
+2023-10-14 09:28:39,269 - INFO - [('ZF COMMERCIAL', 4.31), ('PHOENIX MILL', 3.86), ('HDFC AMC', 3.52), ('SJVN', 3.08), ('SHRIRAM TRANSPORT FINANCE CO. NCD 0STFC16', 2.99)]
+2023-10-14 09:31:20,377 - INFO - Equitymaster Homepage initialized
+2023-10-14 09:31:20,379 - INFO - Navigating to Equitymaster: https://www.equitymaster.com/stockquotes/1-76/list-of-nifty-largemidcap-250-stocks
+2023-10-14 09:31:23,533 - INFO - Fetching stocks Value
+2023-10-14 09:31:43,873 - INFO - Loading elements from index 85
+2023-10-14 09:32:11,926 - INFO - Loading elements from index 185
+2023-10-14 09:32:18,094 - WARNING - Profit percentage not exist for NIFTY 50
+2023-10-14 09:32:29,703 - WARNING - Profit percentage not exist for TATA STEEL 2% CCPS
+2023-10-14 09:32:34,664 - INFO - Loading elements from index 285
+2023-10-14 09:32:45,495 - ERROR - Element not found within 10 seconds: ('xpath', "//table[@class='mystocks cls']/tbody/tr[288]/td[1]")
+2023-10-14 09:32:55,552 - ERROR - Element not found within 10 seconds: ('xpath', "//button[@title='Close' and @tabindex]")
+2023-10-14 09:32:55,553 - INFO - [('ZF COMMERCIAL', 4.31), ('PHOENIX MILL', 3.86), ('HDFC AMC', 3.52), ('SJVN', 3.08), ('SHRIRAM TRANSPORT FINANCE CO. NCD 0STFC16', 2.99)]
+2023-10-14 09:33:01,746 - INFO - {'ZF COMMERCIAL': 4.31, 'PHOENIX MILL': 3.86, 'HDFC AMC': 3.52, 'SJVN': 3.08, 'SHRIRAM TRANSPORT FINANCE CO. NCD 0STFC16': 2.99}
+2023-10-14 09:47:55,959 - INFO - Equitymaster Homepage initialized
+2023-10-14 09:47:55,959 - INFO - Navigating to Equitymaster: https://www.equitymaster.com/stockquotes/1-76/list-of-nifty-largemidcap-250-stocks
+2023-10-14 09:47:59,639 - INFO - Fetching stocks Value
+2023-10-14 09:48:18,447 - INFO - Loading elements from index 85
+2023-10-14 09:48:41,574 - INFO - Loading elements from index 185
+2023-10-14 09:48:49,145 - WARNING - Profit percentage not exist for NIFTY 50
+2023-10-14 09:49:00,620 - WARNING - Profit percentage not exist for TATA STEEL 2% CCPS
+2023-10-14 09:49:05,515 - INFO - Loading elements from index 285
+2023-10-14 09:49:16,784 - ERROR - Element not found within 10 seconds: ('xpath', "//table[@class='mystocks cls']/tbody/tr[288]/td[1]")
+2023-10-14 09:49:27,142 - ERROR - Element not found within 10 seconds: ('xpath', "//button[@title='Close' and @tabindex]")
+2023-10-14 09:49:27,142 - INFO - [('ZF COMMERCIAL', 4.31), ('PHOENIX MILL', 3.86), ('HDFC AMC', 3.52), ('SJVN', 3.08), ('SHRIRAM TRANSPORT FINANCE CO. NCD 0STFC16', 2.99)]
+2023-10-14 09:49:32,218 - INFO - {'ZF COMMERCIAL': 4.31, 'PHOENIX MILL': 3.86, 'HDFC AMC': 3.52, 'SJVN': 3.08, 'SHRIRAM TRANSPORT FINANCE CO. NCD 0STFC16': 2.99}
+2023-10-14 09:49:32,219 - INFO - top5_stocks [[('ZF COMMERCIAL', 4.31), ('PHOENIX MILL', 3.86), ('HDFC AMC', 3.52), ('SJVN', 3.08), ('SHRIRAM TRANSPORT FINANCE CO. NCD 0STFC16', 2.99)]]
+2023-10-14 09:57:53,595 - INFO - Equitymaster Homepage initialized
+2023-10-14 09:57:53,596 - INFO - Navigating to Equitymaster: https://www.equitymaster.com/stockquotes/1-76/list-of-nifty-largemidcap-250-stocks
+2023-10-14 09:57:56,946 - INFO - Fetching stocks Value
+2023-10-14 09:58:18,542 - INFO - Loading elements from index 85
+2023-10-14 09:58:44,617 - INFO - Loading elements from index 185
+2023-10-14 09:58:53,584 - WARNING - Profit percentage not exist for NIFTY 50
+2023-10-14 09:59:06,837 - WARNING - Profit percentage not exist for TATA STEEL 2% CCPS
+2023-10-14 09:59:12,580 - INFO - Loading elements from index 285
+2023-10-14 09:59:23,604 - ERROR - Element not found within 10 seconds: ('xpath', "//table[@class='mystocks cls']/tbody/tr[288]/td[1]")
+2023-10-14 09:59:33,679 - ERROR - Element not found within 10 seconds: ('xpath', "//button[@title='Close' and @tabindex]")
+2023-10-14 09:59:33,679 - INFO - [('ZF COMMERCIAL', 4.31), ('PHOENIX MILL', 3.86), ('HDFC AMC', 3.52), ('SJVN', 3.08), ('SHRIRAM TRANSPORT FINANCE CO. NCD 0STFC16', 2.99)]
+2023-10-14 09:59:39,006 - INFO - {'ZF COMMERCIAL': 4.31, 'PHOENIX MILL': 3.86, 'HDFC AMC': 3.52, 'SJVN': 3.08, 'SHRIRAM TRANSPORT FINANCE CO. NCD 0STFC16': 2.99}
+2023-10-14 09:59:39,006 - INFO - top5_stocks {'ZF COMMERCIAL': 4.31, 'PHOENIX MILL': 3.86, 'HDFC AMC': 3.52, 'SJVN': 3.08, 'SHRIRAM TRANSPORT FINANCE CO. NCD 0STFC16': 2.99}
+2023-10-14 10:06:00,210 - INFO - Equitymaster Homepage initialized
+2023-10-14 10:06:00,213 - INFO - Navigating to Equitymaster: https://www.equitymaster.com/stockquotes/1-76/list-of-nifty-largemidcap-250-stocks
+2023-10-14 10:06:03,292 - INFO - Fetching stocks Value
+2023-10-14 10:06:24,866 - INFO - Loading elements from index 85
+2023-10-14 10:06:51,670 - INFO - Loading elements from index 185
+2023-10-14 10:07:01,439 - WARNING - Profit percentage not exist for NIFTY 50
+2023-10-14 10:07:14,761 - WARNING - Profit percentage not exist for TATA STEEL 2% CCPS
+2023-10-14 10:07:20,513 - INFO - Loading elements from index 285
+2023-10-14 10:07:31,666 - ERROR - Element not found within 10 seconds: ('xpath', "//table[@class='mystocks cls']/tbody/tr[288]/td[1]")
+2023-10-14 10:07:41,798 - ERROR - Element not found within 10 seconds: ('xpath', "//button[@title='Close' and @tabindex]")
+2023-10-14 10:07:41,798 - INFO - [('ZF COMMERCIAL', 4.31), ('PHOENIX MILL', 3.86), ('HDFC AMC', 3.52), ('SJVN', 3.08), ('SHRIRAM TRANSPORT FINANCE CO. NCD 0STFC16', 2.99)]
+2023-10-14 10:07:47,141 - INFO - {'ZF COMMERCIAL': 4.31, 'PHOENIX MILL': 3.86, 'HDFC AMC': 3.52, 'SJVN': 3.08, 'SHRIRAM TRANSPORT FINANCE CO. NCD 0STFC16': 2.99}
+2023-10-14 16:54:31,926 - INFO - Equitymaster Homepage initialized
+2023-10-14 16:54:31,927 - INFO - Navigating to Equitymaster: https://www.equitymaster.com/stockquotes/1-76/list-of-nifty-largemidcap-250-stocks
+2023-10-14 16:54:36,187 - INFO - Fetching stocks Value
+2023-10-14 16:54:57,447 - INFO - Loading elements from index 85
+2023-10-14 16:55:23,497 - INFO - Loading elements from index 185
+2023-10-14 16:55:33,082 - WARNING - Profit percentage not exist for NIFTY 50
+2023-10-14 16:55:39,537 - INFO - {'ZF COMMERCIAL': 4.31, 'PHOENIX MILL': 3.86, 'HDFC AMC': 3.52, 'SJVN': 3.08, 'SHRIRAM TRANSPORT FINANCE CO. NCD 0STFC16': 2.99}
+2023-10-14 17:00:13,729 - INFO - Equitymaster Homepage initialized
+2023-10-14 17:00:13,732 - INFO - Navigating to Equitymaster: https://www.equitymaster.com/stockquotes/1-76/list-of-nifty-largemidcap-250-stocks
+2023-10-14 17:00:16,626 - INFO - Fetching stocks Value
+2023-10-14 17:00:37,970 - INFO - Loading elements from index 85
+2023-10-14 17:01:02,297 - INFO - Loading elements from index 185
+2023-10-14 17:01:10,477 - WARNING - Profit percentage not exist for NIFTY 50
+2023-10-14 17:01:16,237 - INFO - Top five stocks sorted automatically {'ZF COMMERCIAL': 4.31, 'PHOENIX MILL': 3.86, 'HDFC AMC': 3.52, 'SJVN': 3.08, 'SHRIRAM TRANSPORT FINANCE CO. NCD 0STFC16': 2.99}
+2023-10-14 17:06:13,255 - INFO - Equitymaster Homepage initialized
+2023-10-14 17:06:13,259 - INFO - Navigating to Equitymaster: https://www.equitymaster.com/stockquotes/1-76/list-of-nifty-largemidcap-250-stocks
+2023-10-14 17:06:18,076 - INFO - Fetching stocks Value
+2023-10-14 17:06:38,156 - INFO - Loading elements from index 85
+2023-10-14 17:07:02,876 - INFO - Loading elements from index 185
+2023-10-14 17:07:12,151 - WARNING - Profit percentage does not exist for NIFTY 50
+2023-10-14 17:07:25,044 - WARNING - Profit percentage does not exist for TATA STEEL 2% CCPS
+2023-10-14 17:07:30,824 - INFO - Loading elements from index 285
+2023-10-14 17:07:41,897 - ERROR - Element not found within 10 seconds: ('xpath', "//table[@class='mystocks cls']/tbody/tr[288]/td[1]")
+2023-10-14 17:07:52,322 - ERROR - Element not found within 10 seconds: ('xpath', "//button[@title='Close' and @tabindex]")
+2023-10-14 17:07:52,324 - INFO - Top five stocks sorted manually [('ZF COMMERCIAL', 4.31), ('PHOENIX MILL', 3.86), ('HDFC AMC', 3.52), ('SJVN', 3.08), ('SHRIRAM TRANSPORT FINANCE CO. NCD 0STFC16', 2.99)]
+2023-10-14 17:07:58,424 - INFO - Top five stocks sorted automatically {'ZF COMMERCIAL': 4.31, 'PHOENIX MILL': 3.86, 'HDFC AMC': 3.52, 'SJVN': 3.08, 'SHRIRAM TRANSPORT FINANCE CO. NCD 0STFC16': 2.99}
+2023-10-14 17:09:49,387 - INFO - Equitymaster Homepage initialized
+2023-10-14 17:09:49,389 - INFO - Navigating to Equitymaster: https://www.equitymaster.com/stockquotes/1-76/list-of-nifty-largemidcap-250-stocks
+2023-10-14 17:09:49,928 - INFO - Fetching stocks Value
+2023-10-14 17:10:12,393 - INFO - Loading elements from index 85
+2023-10-14 17:10:36,393 - INFO - Loading elements from index 185
+2023-10-14 17:10:50,308 - ERROR - Element not found within 10 seconds: ('xpath', "//table[@class='mystocks cls']/tbody/tr[201]/td[1]")
+2023-10-14 17:11:00,832 - ERROR - Element not found within 10 seconds: ('xpath', "//button[@title='Close' and @tabindex]")
+2023-10-14 17:11:00,833 - INFO - Top five stocks sorted manually [('HDFC AMC', 3.52), ('CASTROL INDIA', 2.9), ('INDUSIND BANK', 2.76), ('HCL TECHNOLOGIES', 2.55), ('HUDCO 7.03% 28-03-2023 BOND', 2.36)]
+2023-10-14 17:11:11,798 - ERROR - Element not found within 10 seconds: ('xpath', "//table[@class='mystocks cls']/tbody/tr[1]/td[1]")
+2023-10-14 17:11:22,244 - ERROR - Element not found within 10 seconds: ('xpath', "//button[@title='Close' and @tabindex]")
+2023-10-14 17:32:57,686 - INFO - Equitymaster Homepage initialized
+2023-10-14 17:32:57,688 - INFO - Navigating to Equitymaster: https://www.equitymaster.com/stockquotes/1-76/list-of-nifty-largemidcap-250-stocks
+2023-10-14 17:33:01,282 - INFO - Fetching stocks Value
+2023-10-14 17:33:19,793 - INFO - Loading elements from index 85
+2023-10-14 17:33:41,342 - INFO - Loading elements from index 185
+2023-10-14 17:33:48,895 - WARNING - Profit percentage does not exist for NIFTY 50
+2023-10-14 17:33:58,372 - WARNING - Profit percentage does not exist for TATA STEEL 2% CCPS
+2023-10-14 17:34:03,240 - INFO - Loading elements from index 285
+2023-10-14 17:34:18,836 - INFO - Equitymaster Homepage initialized
+2023-10-14 17:34:18,836 - INFO - Navigating to Equitymaster: https://www.equitymaster.com/stockquotes/1-76/list-of-nifty-largemidcap-250-stocks
+2023-10-14 17:34:22,587 - INFO - Fetching stocks Value
+2023-10-14 17:34:39,720 - INFO - Loading elements from index 85
+2023-10-14 17:35:00,045 - INFO - Loading elements from index 185
+2023-10-14 17:35:07,245 - WARNING - Profit percentage does not exist for NIFTY 50
+2023-10-14 17:35:17,855 - WARNING - Profit percentage does not exist for TATA STEEL 2% CCPS
+2023-10-14 17:35:22,196 - INFO - Loading elements from index 285
+2023-10-14 17:35:33,055 - ERROR - Element not found within 10 seconds: ('xpath', "//table[@class='mystocks cls']/tbody/tr[288]/td[1]")
+2023-10-14 17:35:43,102 - ERROR - Element not found within 10 seconds: ('xpath', "//button[@title='Close' and @tabindex]")
+2023-10-14 17:35:43,102 - INFO - Top five stocks sorted manually [('ZF COMMERCIAL', 4.31), ('PHOENIX MILL', 3.86), ('HDFC AMC', 3.52), ('SJVN', 3.08), ('SHRIRAM TRANSPORT FINANCE CO. NCD 0STFC16', 2.99)]
+2023-10-14 17:35:48,498 - INFO - Top five stocks sorted automatically {'ZF COMMERCIAL': 4.31, 'PHOENIX MILL': 3.86, 'HDFC AMC': 3.52, 'SJVN': 3.08, 'SHRIRAM TRANSPORT FINANCE CO. NCD 0STFC16': 2.99}

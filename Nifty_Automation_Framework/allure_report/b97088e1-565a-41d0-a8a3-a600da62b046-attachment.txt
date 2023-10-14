@@ -1,0 +1,1 @@
+[32mINFO    [0m tests.test_home:test_home.py:32 Top five stocks sorted automatically {'ZF COMMERCIAL': 4.31, 'PHOENIX MILL': 3.86, 'HDFC AMC': 3.52, 'SJVN': 3.08, 'SHRIRAM TRANSPORT FINANCE CO. NCD 0STFC16': 2.99}

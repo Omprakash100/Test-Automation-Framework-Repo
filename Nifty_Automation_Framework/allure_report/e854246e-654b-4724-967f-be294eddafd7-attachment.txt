@@ -1,0 +1,11 @@
+[32mINFO    [0m pages.home_page:home_page.py:18 Equitymaster Homepage initialized
+[32mINFO    [0m pages.home_page:home_page.py:21 Navigating to Equitymaster: https://www.equitymaster.com/stockquotes/1-76/list-of-nifty-largemidcap-250-stocks
+[32mINFO    [0m pages.home_page:home_page.py:73 Fetching stocks Value
+[32mINFO    [0m pages.home_page:home_page.py:59 Loading elements from index 85
+[32mINFO    [0m pages.home_page:home_page.py:59 Loading elements from index 185
+[33mWARNING [0m pages.home_page:home_page.py:37 Profit percentage does not exist for NIFTY 50
+[33mWARNING [0m pages.home_page:home_page.py:37 Profit percentage does not exist for TATA STEEL 2% CCPS
+[32mINFO    [0m pages.home_page:home_page.py:59 Loading elements from index 285
+[31m[1mERROR   [0m pages.base_page:base_page.py:22 Element not found within 10 seconds: ('xpath', "//table[@class='mystocks cls']/tbody/tr[288]/td[1]")
+[31m[1mERROR   [0m pages.base_page:base_page.py:22 Element not found within 10 seconds: ('xpath', "//button[@title='Close' and @tabindex]")
+[32mINFO    [0m tests.test_home:test_home.py:27 Top five stocks sorted manually [('ZF COMMERCIAL', 4.31), ('PHOENIX MILL', 3.86), ('HDFC AMC', 3.52), ('SJVN', 3.08), ('SHRIRAM TRANSPORT FINANCE CO. NCD 0STFC16', 2.99)]
